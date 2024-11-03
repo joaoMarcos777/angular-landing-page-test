@@ -1,27 +1,37 @@
-# LandingPage
+<h1 align="center" style="font-weight: bold;">Angular Landing Page</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+<p align="center">
+ <a href="#tech">Technologies</a> • 
+ <a href="#started">Getting Started</a> • 
+</p>
 
-## Development server
+<p align="center">
+    <b>A Landing Page made to test new Angular version features</b>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h2 id="layout">🎨 Layout</h2>
 
-## Code scaffolding
+<p align="center">
+    <img src="./.github/landing-page.png" alt="Image Example" width="400px">
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2 id="technologies">💻 Technologies</h2>
 
-## Build
+- Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<h2 id="started">🚀 Getting started</h2>
 
-## Running unit tests
+```sh
+npm install
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```sh
+npm run start
+```
 
-## Running end-to-end tests
+## Author
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+**João Marcos**
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- Github: [@joaoMarcos777](https://github.com/joaoMarcos777)
+- LinkedIn: [@joaomarcos777](https://linkedin.com/in/joaomarcos777)
